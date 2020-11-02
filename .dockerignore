@@ -1,0 +1,4 @@
+.dockerignore
+package.json
+package-lock.json
+README.md
